@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou [Seu Nome]!
+## 👋 Olá, eu sou Kauan!
 
 ## 🚀 Sobre mim
 Sou um apaixonado por tecnologia e programação! Sempre buscando aprender coisas novas, construir projetos desafiadores e colaborar com a comunidade.
