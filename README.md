@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Olá, eu sou [Seu Nome]!
 
-<!--
-**kauanred/kauanred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Sou um apaixonado por tecnologia e programação! Sempre buscando aprender coisas novas, construir projetos desafiadores e colaborar com a comunidade.
 
-Here are some ideas to get you started:
+- 🎯 Foco em desenvolvimento **FullStack**.
+- 🛠️ Atualmente trabalhando em projetos com **Spring Boot**, **HTML/CSS/JavaScript**.
+- 📚 Sempre aprendendo novas tecnologias e boas práticas de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Habilidades
+
+### 🚀 Backend
+- ⚡ Java / Spring Boot
+- 🐘 PostgreSQL / MySQL
+- 🔥 APIs RESTful
+- 🛡️ Autenticação e Segurança
+
+### 🎨 Frontend
+- 🖌️ HTML5 / CSS3
+- 🎯 JavaScript (ES6+)
+- 🧩 Bootstrap / TailwindCSS
+
+### ⚙️ Ferramentas & Tecnologias
+- 🛠️ Git / GitHub
+- 🏗️ Maven
+- ☁️ Deploy em Heroku / Render
+
+## 📫 Contato
+- ✉️ Email: kauanmpereira1422@gmail.com
+- 💼 LinkedIn: [Seu LinkedIn](https://linkedin.com/in//kauanpereira)
+
+---
+
+✨ Obrigado por visitar meu perfil! Vamos codar juntos!
